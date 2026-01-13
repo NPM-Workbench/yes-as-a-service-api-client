@@ -18,11 +18,11 @@ async function getAYes(): Promise<TOutput> {
     if (!response.ok) {
       throw new Error("Get A Yes: Sorry, Something Went Wrong");
     } else {
-      const affirmation = await response.json();
+      const { reason } = await response.json();
       return {
         code: "api-ok",
         message: "No errors encountered, check payload",
-        payload: { affirmation }
+        payload: { affirmation: reason }
       };
     }
   } catch (error) {
