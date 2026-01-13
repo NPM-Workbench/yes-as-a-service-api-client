@@ -1,0 +1,44 @@
+{
+  "name": "yes-as-a-service-api-client",
+  "description": "A minimal JavaScript/TypeScript client for the Yes As A Service API — an API that always responds with a positive affirmation.",
+  "type": "module",
+  "version": "0.0.9",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "yes-as-a-service",
+    "affirmation-api",
+    "public-api",
+    "tiny-api",
+    "npm-api-client",
+    "positivity",
+    "fun-api",
+    "fetch",
+    "typescript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NPM-Workbench/yes-as-a-service-api-client"
+  },
+  "homepage": "https://github.com/NPM-Workbench/yes-as-a-service-api-client",
+  "bugs": {
+    "url": "https://github.com/NPM-Workbench/yes-as-a-service-api-client/issues"
+  }
+}
