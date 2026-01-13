@@ -17,7 +17,7 @@ npm install yes-as-a-service-api-client
 
 ### 🔤 Example Usage
 ```javascript
-import { getYesAffirmation } from "yes-as-a-service-api-client";
+import { getAYes } from "yes-as-a-service-api-client";
 
 async function run() {
   const response = await getAYes();
