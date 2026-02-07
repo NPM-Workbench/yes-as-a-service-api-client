@@ -13,7 +13,7 @@ A tiny JavaScript/TypeScript client for the Yes As A Service API — fetch rando
 npm install yes-as-a-service-api-client
 ```
 
-### 📜 Design Philosophy
+### 🐚 Design Philosophy
 
 1. Zero configuration
 2. No inputs required
@@ -57,7 +57,7 @@ run();
 }*/
 ```
 
-### ✅ Test Coverage
+### 📗 Test Coverage
 
 ```
 PASS  src/get-a-yes/index.test.ts
