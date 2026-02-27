@@ -2,7 +2,7 @@
 ![npm](https://img.shields.io/npm/v/yes-as-a-service-api-client)
 ![downloads](https://img.shields.io/npm/dw/yes-as-a-service-api-client)
 ![license](https://img.shields.io/npm/l/yes-as-a-service-api-client)
-
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/yes-as-a-service-api-client)
 # Yes As A Service API Client
 
 A tiny JavaScript/TypeScript client for the Yes As A Service API — fetch random positive affirmations with a single request.
