@@ -88,7 +88,7 @@ Feel free to open issues or pull requests.
 
 ### 🔒 Security & Privacy
 1. This package is open source and intended to provide reusable utilities for application development. It does not collect, store, transmit, sell, or share user data, and it does not include analytics, tracking, telemetry, cookies, local storage usage, backend services, or project-owned data collection mechanisms.
-2. For more details, including vulnerability reporting guidance and consumer security recommendations, please see the [Security Policy](https://github.com/NPM-Workbench/vowelz/yes-as-a-service-api-client/security/policy).
+2. For more details, including vulnerability reporting guidance and consumer security recommendations, please see the [Security Policy](https://github.com/NPM-Workbench/yes-as-a-service-api-client/security/policy).
 
 ### ❤️ Support
 
