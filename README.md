@@ -1,4 +1,4 @@
-![yes-hero-banner-illustration](https://github.com/user-attachments/assets/9623e970-e9ba-4847-bb28-8bfc8fb2dea2)
+![yes-hero-banner-illustration](https://github.com/user-attachments/assets/a9b0dab5-7890-435c-b768-a9a6dd098518)
 ![npm](https://img.shields.io/npm/v/yes-as-a-service-api-client)
 ![downloads](https://img.shields.io/npm/dw/yes-as-a-service-api-client)
 ![license](https://img.shields.io/npm/l/yes-as-a-service-api-client)
